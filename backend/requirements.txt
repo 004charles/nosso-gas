@@ -1,0 +1,11 @@
+django>=4.2
+djangorestframework
+django-cors-headers
+django-environ
+djangorestframework-simplejwt
+channels[daphne]
+channels-redis
+requests
+psycopg2-binary
+python-dotenv
+dj-database-url
